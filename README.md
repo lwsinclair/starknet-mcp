@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/milancermak-starknet-mcp-badge.png)](https://mseep.ai/app/milancermak-starknet-mcp)
+
 # 🌐 Starknet MCP Server
 
 A Model Context Protocol (MCP) server that enables AI models to interact with Starknet.
